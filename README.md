@@ -80,7 +80,6 @@
 | 🛒 **E-Commerce** | E-commerce web project | [View Repository](https://github.com/Gameover007coder/E-COMMERCE) |
 | ✅ **Task Management** | Task/project management application | [View Repository](https://github.com/Gameover007coder/Task-Management) |
 | 👤 **Person Finder** | Person-finding project | [View Repository](https://github.com/Gameover007coder/Person-Finder) |
-| 🧠 **AI** | AI-focused project repository | [View Repository](https://github.com/Gameover007coder/ai) |
 | 💰 **Earning AI** | AI-focused earning/project concept | [View Repository](https://github.com/Gameover007coder/earning-ai) |
 | 🌐 **Portfolio** | Personal portfolio project | [View Repository](https://github.com/Gameover007coder/portfolio) |
 | 🐧 **Networking Linux** | Linux networking project/work | [View Repository](https://github.com/Gameover007coder/Networking-Linux) |
