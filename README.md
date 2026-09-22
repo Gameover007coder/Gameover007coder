@@ -77,7 +77,6 @@
 |---|---|---|
 | 📝 **OMR Evaluation System** | OMR-based evaluation project | [View Repository](https://github.com/Gameover007coder/OMR-Evaluation-System) |
 | 🤖 **Resume Evaluator** | Resume/job-description evaluation project | [View Repository](https://github.com/Gameover007coder/resume-evaluator) |
-| 📄 **Automated Resume Relevance Check System** | Resume relevance checking application | [View Repository](https://github.com/Gameover007coder/Automated-Resume-Relevance-Check-System.2) |
 | 🛒 **E-Commerce** | E-commerce web project | [View Repository](https://github.com/Gameover007coder/E-COMMERCE) |
 | ✅ **Task Management** | Task/project management application | [View Repository](https://github.com/Gameover007coder/Task-Management) |
 | 👤 **Person Finder** | Person-finding project | [View Repository](https://github.com/Gameover007coder/Person-Finder) |
