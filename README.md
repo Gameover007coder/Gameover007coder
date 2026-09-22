@@ -159,7 +159,7 @@ This profile currently has **30 repositories in total: 28 public and 2 private**
 - Applied SEO-focused web development practices
 - Worked with clients and project timelines
 
-### Vice Chair — ACM CORE, Brainware University
+### Vice Chair — ACM Student Chapter, Brainware University
 **Jan 2026 – Jan 2027**
 
 - Coordinate core members of the student chapter
@@ -179,20 +179,6 @@ This profile currently has **30 repositories in total: 28 public and 2 private**
 - ☁️ Building practical projects that can grow into real products
 
 ---
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gameover007coder&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gameover007coder&layout=compact&theme=transparent&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gameover007coder&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## 🏆 Problem Solving
 
 <p align="center">
